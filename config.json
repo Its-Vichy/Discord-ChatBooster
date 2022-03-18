@@ -1,0 +1,10 @@
+{
+    "main_token": "",
+    "listen_channel_id": "",
+    "copy_channel_id": "",
+    "command_channel": "",
+    "max_typing_time": 4,
+    "min_typing_time": 0,
+    "capture_all": true,
+    "proxyless": false
+}
