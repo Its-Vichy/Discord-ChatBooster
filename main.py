@@ -1,8 +1,8 @@
 import httpx, itertools, threading, json, time, discum, random, re, base64
 
-__CONFIG__ = json.load(open('./config.json'))
+__CONFIG__ = json.load(open('./config.json', encoding='utf8', errors='ignore'))
 __TOKENS__ = open('./tokens.txt', 'r+').read().splitlines()
-__EMOTE__ = open('./emojis.txt', 'r+').read().splitlines()
+__EMOTE__ = open('./emojis.txt', 'r+', encoding='utf8', errors='ignore').read().splitlines()
 __PROXY__  = itertools.cycle(open('./proxies.txt', 'r+').read().splitlines())
 
 bl = []
