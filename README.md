@@ -24,6 +24,7 @@
 - [X] **Proxy support - HTTP/S**
 - [X] **Ultra realistic, (chat typing, delay..)**
 - [X] **Forwarded from custom server in real time.**
+- [X] **Replace user and channel mention, (stay undetected)**
 
 -----
 
