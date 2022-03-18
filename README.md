@@ -25,6 +25,7 @@
 - [X] **Ultra realistic, (chat typing, delay..)**
 - [X] **Forwarded from custom server in real time.**
 - [X] **Replace user and channel mention, (stay undetected)**
+- [X] **One token / account (realistic chat, if user sent multiple message they will be sent with the same token)**
 
 -----
 
