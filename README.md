@@ -3,28 +3,27 @@
 <p align='center'>
     <b>Give real chat boosting to your discord server.</b><br>
     <br>
-    <img src='https://media.discordapp.net/attachments/954374798975324201/954374816926924830/866c93a9d71a30fce2b49abeb0361545.png?width=843&height=632'>
+    <img src='https://cdn.discordapp.com/attachments/979740087531237399/981205183965061121/unknown.png'>
 </p>
 
 -----
 
 ```txt
 ✅ Setup:
-  - Add token to scrape messages on server that you whant.
-  - Put the token in config file.
-  
-  - Put the channel id to scrape messages, if you whant to scrape message from any servers and any channels, enable `capture_all` option.
-  - Put channel id to forward messages, and command channel (all bots command will be sent here).
+  - Put channels id where you want to forward messages. (ALL tokens need to have access)
+  - Config the json and goooo
 
 👀 If you don't have proxies, activate proxyless option, or buy them from my shop :p
   
 ```
 -----
 
+- [X] **Word blacklist (escape ban if yokens send bad word :p)**
+- [X] **Interchat (you can reply to messages)**
 - [X] **Proxy support - HTTP/S**
 - [X] **Ultra realistic, (chat typing, delay..)**
 - [X] **Forwarded from custom server in real time.**
-- [X] **Replace user and channel mention, (stay undetected)**
+- [X] **Replace user, emoji and channel mention, (stay undetected)**
 - [X] **One token / account (realistic chat, if user sent multiple message they will be sent with the same token)**
 
 -----
